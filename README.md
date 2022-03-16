@@ -1,1 +1,7 @@
-# Reloj digital usando JavaScript, HTML y CSS
+# Reloj digital
+
+## Maquetación
+HTML y CSS
+
+## Funcionalidad
+Javascript
